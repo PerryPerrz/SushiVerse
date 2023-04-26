@@ -15,7 +15,9 @@ function Navbar() {
     return (
         <div className='navbar'>
             <div className='leftSide' id={showLinks ? "open" : "close"}>
-                <img src={Logo} alt='logo' />
+                <Link to="/">
+                    <img src={Logo} alt='logo' />
+                </Link>
                 <div className='logoName'>SushiVerse</div>
                 <div className='hiddenLinks'>
                     <Link to='/'>Home</Link>

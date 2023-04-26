@@ -24,6 +24,7 @@
   
   .aboutBottom p {
     width: 1200px;
+    text-align: center;
   }
   
   .about .aboutBottom h1 {
@@ -35,7 +36,3 @@
     justify-content: center;
     transform: translateY(-40px);
   }
-
-  p {
-    text-align: center;
-  }  
