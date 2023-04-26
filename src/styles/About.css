@@ -35,4 +35,7 @@
     justify-content: center;
     transform: translateY(-40px);
   }
-  
+
+  p {
+    text-align: center;
+  }  
