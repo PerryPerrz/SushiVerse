@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SushiVerse/static/css/main.cfeb4beb.css",
+    "main.js": "/SushiVerse/static/js/main.36020133.js",
+    "static/js/787.3643f107.chunk.js": "/SushiVerse/static/js/787.3643f107.chunk.js",
+    "static/media/ramen_poulet.png": "/SushiVerse/static/media/ramen_poulet.bba299b3bf6313ba6294.png",
+    "static/media/background_rice.jpg": "/SushiVerse/static/media/background_rice.ab83a88bc9c9314ea772.jpg",
+    "static/media/maki.jpg": "/SushiVerse/static/media/maki.98657c2934bd3a9daf9f.jpg",
+    "static/media/sushi_crevette.jpg": "/SushiVerse/static/media/sushi_crevette.50cbd2f53dca047c2ee2.jpg",
+    "static/media/ramen.jpeg": "/SushiVerse/static/media/ramen.58a9b0084e80c4245853.jpeg",
+    "static/media/background_sushi.jpg": "/SushiVerse/static/media/background_sushi.1098e7b6d85a2d59807b.jpg",
+    "static/media/ramen_canard.jpg": "/SushiVerse/static/media/ramen_canard.dbffdf80a669916637ec.jpg",
+    "static/media/sushi_saumon.png": "/SushiVerse/static/media/sushi_saumon.842012acade0f12bad1b.png",
+    "static/media/logo.png": "/SushiVerse/static/media/logo.fc5fa83beeaf6b7e4ab6.png",
+    "index.html": "/SushiVerse/index.html",
+    "main.cfeb4beb.css.map": "/SushiVerse/static/css/main.cfeb4beb.css.map",
+    "main.36020133.js.map": "/SushiVerse/static/js/main.36020133.js.map",
+    "787.3643f107.chunk.js.map": "/SushiVerse/static/js/787.3643f107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfeb4beb.css",
+    "static/js/main.36020133.js"
+  ]
+}
