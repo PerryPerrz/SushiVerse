@@ -6,7 +6,7 @@ import Maki from '../assets/meals/maki.jpg';
 
 export const MenuList = [
     {
-        name: "Sushi Saumon",
+        name: "Sushi saumon",
         image: SushiSaumon,
         description: "",
         ingredients: "Saumon, Riz",
